@@ -1,0 +1,10 @@
+﻿namespace XP_TesteTecnico.Context.Dtos
+{
+	public class ReadDadoClienteDto
+	{
+        public int Id { get; set; }
+        public string NomeCompleto { get; set; }
+        public string Email { get; set; }
+        public string Telefone { get; set; }
+    }
+}
