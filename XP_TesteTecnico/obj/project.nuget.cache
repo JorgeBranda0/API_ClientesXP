@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HYGj9z3K1+VO5OqjBShDP+jKZd9rO/5m2ztHP+ArXiXvb/ki3mPUXwq+pK8MfAc+OjHjzVydrmPttEXF9lVViQ==",
+  "dgSpecHash": "XTX8fU5sO6nWP/T09MHzW38bbNJqoRCH6LgdridGbQElxOO1sBr6Yr+SZsjYzelA97lZvKqCHcVoyjuE97eIrA==",
   "success": true,
-  "projectFilePath": "C:\\Sistemas\\API\\XP_TesteTecnico\\XP_TesteTecnico\\XP_TesteTecnico.csproj",
+  "projectFilePath": "C:\\Sistemas\\Nova pasta\\API_ClientesXP\\XP_TesteTecnico\\XP_TesteTecnico.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jorge.rocha\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\jorge.rocha\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

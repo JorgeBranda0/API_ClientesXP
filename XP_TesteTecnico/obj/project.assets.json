@@ -3698,11 +3698,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sistemas\\API\\XP_TesteTecnico\\XP_TesteTecnico\\XP_TesteTecnico.csproj",
+      "projectUniqueName": "C:\\Sistemas\\Nova pasta\\API_ClientesXP\\XP_TesteTecnico\\XP_TesteTecnico.csproj",
       "projectName": "XP_TesteTecnico",
-      "projectPath": "C:\\Sistemas\\API\\XP_TesteTecnico\\XP_TesteTecnico\\XP_TesteTecnico.csproj",
+      "projectPath": "C:\\Sistemas\\Nova pasta\\API_ClientesXP\\XP_TesteTecnico\\XP_TesteTecnico.csproj",
       "packagesPath": "C:\\Users\\jorge.rocha\\.nuget\\packages\\",
-      "outputPath": "C:\\Sistemas\\API\\XP_TesteTecnico\\XP_TesteTecnico\\obj\\",
+      "outputPath": "C:\\Sistemas\\Nova pasta\\API_ClientesXP\\XP_TesteTecnico\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
